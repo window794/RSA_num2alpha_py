@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RSA_num2alpha_py", "RSA_num2alpha_py\RSA_num2alpha_py.pyproj", "{2F883BFB-8DFE-4BA6-B48B-9C4FAC6796AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F883BFB-8DFE-4BA6-B48B-9C4FAC6796AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F883BFB-8DFE-4BA6-B48B-9C4FAC6796AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0ADAD8A-999F-43F6-8853-786C50E3842A}
+	EndGlobalSection
+EndGlobal
