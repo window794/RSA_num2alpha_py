@@ -17,10 +17,11 @@ e=79
 c=904
 n=p*q 
 print("n=:",n) 
-for m in range(e): 
-    if m*(p-1)*(q-1) % e == e-1: 
-      print("m=:",m) 
-      break 
+for i in range(e): 
+    if i*(p-1)*(q-1) % e == e-1: 
+        m=i  
+        print("m=:",m) 
+        break 
 d=(m*(p-1)*(q-1)+1)//e
 print("d=:",d)
 M=(c**d)%n
